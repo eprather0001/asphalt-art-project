@@ -26,12 +26,13 @@ image here > ![alt text](image.png)
 
 1. Describe your project.
 
-   - Write your response here...
-
+- My project is a drawing of a smiley face with a tongue sticking out. I used a Mural Painter to paint the background of my project yellow. I also used a Smiley Face Painter to create the outline of the face, the eyes, smile, and tongue. 
+  
 2. What are two things about your project that you are proud of?
 
-   - Write your response here...
+- One thing I am proud of about this project is that I did it all by myself without any one elses help.
+- A second thing I am proud of about this project was my ability to understand what I was coding and how to code it. 
+  
+  3.  Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
-
-   - Write your response here...
+- If I had an oppurtunity to change something about my project I would improve my use of loops. I'm not pretty confident with using loops so if I didn't have to use them I didn't. 
